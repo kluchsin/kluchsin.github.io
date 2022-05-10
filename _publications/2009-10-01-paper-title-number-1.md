@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "The Host Galaxies of Micro-Jansky Radio Sources"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We combine a deep 0.5 square degree, 1.4 GHz deep radio survey in the Lockman Hole with infrared and optical data in the same field, including the Spitzer Extragalactic Representative Volume Survey (SERVS) and UKIDSS near-infrared surveys, to make the largest study to date of the host galaxies of radio sources with typical radio flux densities ∼ 50 μJy.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+venue: 'The Astronomical Journal'
+paperurl: 'https://iopscience.iop.org/article/10.1088/0004-6256/150/3/87'
+citation: 'Luchsinger, K. M. et al. (2015). &quot;The Host Galaxies of Micro-Jansky Radio Sources.&quot; <i>The Astronomical Journal</i>. Volume 150, Issue 3, article id. 87, 11 pp.'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/hostgalaxies.pdf)
