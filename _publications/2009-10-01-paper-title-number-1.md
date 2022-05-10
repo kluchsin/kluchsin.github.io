@@ -8,4 +8,4 @@ venue: 'The Astronomical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.1088/0004-6256/150/3/87'
 citation: 'Luchsinger, K. M. et al. (2015). &quot;The Host Galaxies of Micro-Jansky Radio Sources.&quot; <i>The Astronomical Journal</i>. Volume 150, Issue 3, article id. 87, 11 pp.'
 
-[Download paper here](http://academicpages.github.io/files/hostgalaxies.pdf)
+[Download paper here](https://iopscience.iop.org/article/10.1088/0004-6256/150/3/87/pdf)
