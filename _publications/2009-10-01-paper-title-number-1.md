@@ -1,7 +1,7 @@
 ---
 title: "The Host Galaxies of Micro-Jansky Radio Sources "
 collection: publications
-permalink: kluchsin.github.io/publication/2009-10-01-paper-title-number-1
+permalink: https://kluchsin.github.io/publication/2009-10-01-paper-title-number-1
 excerpt: 'We combine a deep 0.5 square degree, 1.4 GHz deep radio survey in the Lockman Hole with infrared and optical data in the same field, including the Spitzer Extragalactic Representative Volume Survey (SERVS) and UKIDSS near-infrared surveys, to make the largest study to date of the host galaxies of radio sources with typical radio flux densities ∼ 50 μJy.'
 date: 2015-09
 venue: 'The Astronomical Journal'
