@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://kluchsin.github.io/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - https://kluchsin.github.io/resume
+  - /resume/
 ---
+
+{% include base_path %}
 
 Education
 ======
