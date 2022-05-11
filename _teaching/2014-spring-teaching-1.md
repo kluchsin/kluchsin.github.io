@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "New Mexico State University, Astronomy Department"
-date: 2017-2022
+date: 2022-05-10
 location: "Las Cruces, New Mexico"
 ---
 
