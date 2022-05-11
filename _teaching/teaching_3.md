@@ -2,9 +2,9 @@
 title: "St. John's College"
 collection: teaching
 type: "Astronomy Assistant"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching_3
 venue: "St. John's College"
-date: 2022-05-11
+date: 2014-05-11
 location: "Annapolis, Maryland"
 ---
 
