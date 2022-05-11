@@ -8,6 +8,6 @@ date: 2018-10-01
 location: "Knoxville, TN"
 ---
 
-Poster Presentations 
+Poster Presentation
 =====
 * "Investigating stratification of lunar regolith through modeling of the ground based detection of the LCROSS debris plume light curve", 2018
