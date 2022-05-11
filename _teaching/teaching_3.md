@@ -4,7 +4,7 @@ collection: teaching
 type: "Astronomy Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "St. John's College"
-date: 2014-2015
+date: 2022-05-11
 location: "Annapolis, Maryland"
 ---
 
