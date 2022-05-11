@@ -11,4 +11,4 @@ location: "Virtual"
 Virtual Presentation
 =====
 * "Water within a permanently shadowed lunar crater: Further LCROSS modeling and analysis", 2021
-* Watch at: https://www.youtube.com/watch?v=xs8B8j5v_5o&feature=emb_imp_woyt
+* Watch recorded talk [here](https://www.youtube.com/watch?v=xs8B8j5v_5o&feature=emb_imp_woyt).
