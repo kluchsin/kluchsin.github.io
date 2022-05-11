@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: kluchsin.github.io/sitemap/
+permalink: https://kluchsin.github.io/sitemap/
 author_profile: true
 ---
 
