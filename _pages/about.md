@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-This website is still under construction. Thank you for your patience! Please reach out via email if you have any questions that are not currently addressed on this website. 
-
 About Me
 =====
 
