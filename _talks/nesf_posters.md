@@ -10,5 +10,5 @@ location: "San Jose, CA"
 
 Poster Presentations
 =====
-``Pushing the boundaries of lunar ice: the effects of vertical volatile transport in seasonally shadowed regions'', 2020
-``Using LCROSS as a Template for Future Impact Missions: Probing Sediment and Volatile Stratification'', 2019
+* "Pushing the boundaries of lunar ice: the effects of vertical volatile transport in seasonally shadowed regions", 2020
+* "Using LCROSS as a Template for Future Impact Missions: Probing Sediment and Volatile Stratification", 2019
