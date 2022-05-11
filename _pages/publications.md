@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: kluchsin.github.io/publications/
+permalink: https://kluchsin.github.io/publications/
 author_profile: true
 ---
 
