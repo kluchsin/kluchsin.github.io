@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Wesleyan University, Astronomy Department"
-date: 2015-2017
+date: 2022-05-10
 location: "Middletown, Connecticut"
 ---
 
