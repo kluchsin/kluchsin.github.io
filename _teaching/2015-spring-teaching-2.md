@@ -1,7 +1,7 @@
 ---
 title: "Wesleyan University"
 collection: teaching
-type: "Teaching Assistantship"
+type: "Undergraduate Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Wesleyan University, Astronomy Department"
 date: 2015-2017
