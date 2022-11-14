@@ -17,3 +17,5 @@ New Mexico State University, Graduate Teaching Assistant, 2017-present
   * Lab course, either in person or online. As the TA, I was soley responsible for teaching and grading the labs, held office hours, and helped run Observatory Nights. I also assisted in grading exams, homeworks, and quizzes.
 * ASTR 308V, Into the Final Frontier, Spring 2022
   * Viewing the Wider World course, hybrid format. As the TA, I graded homework and held office hours.
+* ASTR 305V, Life in the Universe, Fall 2022
+  * Viewing the Wider World course, hybrid format. As the TA, I graded homework and held office hours. 
