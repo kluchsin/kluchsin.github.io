@@ -13,7 +13,7 @@ redirect_from:
 About Me
 =====
 
-I am currently (as of 2022) a 5th year Ph.D. candidate in the Astronomy Department at New Mexico State University, working with Dr. Nancy Chanover on modeling lunar polar volatiles. I completed my Bachelor's of Liberal Arts at St. John's College in Annapolis, Maryland in 2015 and my Master's of Arts in Astronomy at Wesleyan University in Middletown, Connecticut in 2017. I was raised in Wasilla, Alaska, and my hobbies include gardening, walking, and baking.
+I am a postdoctoral researcher studying lunar polar water ice, working with Dr. Jennifer Heldmann and Dr. Anthony Colaprete at NASA Ames. I received my Ph.D. in Astronomy from the Astronomy Department at New Mexico State University, working with Dr. Nancy Chanover on modeling lunar polar volatiles. I completed my Bachelor's of Liberal Arts at St. John's College in Annapolis, Maryland in 2015 and my Master's of Arts in Astronomy at Wesleyan University in Middletown, Connecticut in 2017. 
 
 Research Interests
 =====
@@ -22,8 +22,9 @@ Research Interests
 * Horizon ray tracing and thermal profile modeling of lunar polar locations
 * Monte Carlo modeling of ice and ejecta stratigraphic column development at the lunar poles and of thermal equilibration of ballistically sedimented surfaces 
 * Data analysis, including principal component analysis techniques, specifically for ground based observations of short-term events such as debris plumes and transiting exoplanet atmospheric spectroscopy  
+* Comparative data analysis of water ice detections with regard to instrument depth sensitivities. 
 
-Current Projects
+Recent Projects
 =====
 Lunar Migration of Ice in Seasonal Transient Shadow (LunarMISTS) - a Python model of short term vertical migration of ice under seasonal or transient lunar shadow conditions. Paper submitted 04/2022, oral presentation at LPSC 2022, talk for Friends of Lunar Volatiles telecon 2021, poster presentation at NESF 2020. 
 
