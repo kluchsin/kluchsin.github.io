@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy (Ph.D.) in Astronomy, New Mexico State University, expected in fall 2022
-  * Dissertation: "Lunar Polar Ice Across Spatial and Temporal Scales"
+* Doctor of Philosophy (Ph.D.) in Astronomy, New Mexico State University, fall 2022
+  * Dissertation: "The Deposition, Retention, and Disruption of Water Ice at the Lunar Poles Across Temporal and Spatial Scales"
   * Advisor: Dr. Nancy Chanover
 * Master of Arts (M.A.) in Astronomy, Wesleyan University, 2017
   * Thesis: "Blue Skies Through a Blue Sky: An Attempt To Detect Rayleigh Scattering in the Atmospheres of Extrasolar Planets From a Ground-Based Telescope"
@@ -32,9 +32,10 @@ Work experience
   * ASTR 1120G, The Planets, Fall 2019, Spring 2020 (hybrid), Spring 2021 (online)
   * ASTR 1115G, Introduction to Astronomy, Fall 2017, Spring 2018, Fall 2020 (online), Fall 2021\\
   * ASTR 308V, Into the Final Frontier, Spring 2022
+  * ASTR 305V, Life in the Universe, Fall 2022
 
 * NASA Planetary Data System, Atmospheres Node, Graduate Assistant, 2019-present
-  * Migration of Cassini CIRS label files from PDS3 to PDS4
+  * Migration of Cassini CIRS and LADEE NMS label files from PDS3 to PDS4
 
 * Lunar and Planetary Institute, Exploration Science Summer Intern, 2021
   * Advisor: Dr. David Kring
