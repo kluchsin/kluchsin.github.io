@@ -13,7 +13,7 @@ redirect_from:
 About Me
 =====
 
-I am a postdoctoral researcher studying lunar polar water ice, working with Dr. Jennifer Heldmann and Dr. Anthony Colaprete at NASA Ames. I received my Ph.D. in Astronomy from the Astronomy Department at New Mexico State University, working with Dr. Nancy Chanover on modeling lunar polar volatiles. I completed my Bachelor's of Liberal Arts at St. John's College in Annapolis, Maryland in 2015 and my Master's of Arts in Astronomy at Wesleyan University in Middletown, Connecticut in 2017. 
+I am a postdoctoral researcher studying lunar polar water ice, working with Dr. Jennifer Heldmann and Dr. Anthony Colaprete at NASA Ames. I received my Ph.D. in Astronomy from the Astronomy Department at New Mexico State University in the fall of 2022, working with Dr. Nancy Chanover on modeling lunar polar volatiles. I completed my Bachelor's of Liberal Arts at St. John's College in Annapolis, Maryland in 2015 and my Master's of Arts in Astronomy at Wesleyan University in Middletown, Connecticut in 2017. 
 
 Research Interests
 =====
