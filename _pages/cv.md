@@ -64,6 +64,10 @@ Work experience
    
 Awards and Fellowships
 ======
+* Outstanding Graduate Award, College of Arts and Sciences, New Mexico State University, 2022
+
+* Pegasus Award Recognizing Outstanding Teaching by a Graduate Student, Astronomy Department, New Mexico State University, 2022
+
 * SSERVI Student Poster Award, Third Place, NASA Exploration and Science Forum, 2020
 
 * New Mexico Space Grant Graduate Research Fellowship, Funding awarded for the Spring and Fall 2018 semesters; renewed for the Spring and Fall 2019 semesters. 
