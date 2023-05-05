@@ -6,7 +6,7 @@ excerpt: 'The 2009 Lunar CRater Observation and Sensing Satellite (LCROSS) impac
 date: 2022-05-11
 venue: 'Icarus'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0019103520304322?via%3Dihub'
-citation: 'Luchsinger, Kristen M. (2021). &quot;Water within a permanently shadowed lunar crater: Further LCROSS modeling and analysis &quot; <i>Icarus</i>. Volume 354, article id. 114089.'
+citation: 'Luchsinger, Kristen M., Chanover, Nancy J., & Strycker, Paul D. (2021). &quot;Water within a permanently shadowed lunar crater: Further LCROSS modeling and analysis &quot; <i>Icarus</i>. Volume 354, article id. 114089.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2009.05080.pdf)
