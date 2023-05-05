@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy (Ph.D.) in Astronomy, New Mexico State University, fall 2022
+* Doctor of Philosophy (Ph.D.) in Astronomy, New Mexico State University, December 2022
   * Dissertation: "The Deposition, Retention, and Disruption of Water Ice at the Lunar Poles Across Temporal and Spatial Scales"
   * Advisor: Dr. Nancy Chanover
 * Master of Arts (M.A.) in Astronomy, Wesleyan University, 2017
@@ -27,14 +27,18 @@ Education
 
 Work experience
 ======
-* New Mexico State University, Graduate Teaching Assistant, 2017-present
+* NASA Ames, Postdoctoral Researcher, 2023-present
+  * Advisor: Dr. Jennifer Heldmann
+  * Utilizing the depth sensitivities of instruments with lunar polar water detections to constrain depth distribution of water ice populations
+
+* New Mexico State University, Graduate Teaching Assistant, 2017-2022
   * Head TA, fall 2021
   * ASTR 1120G, The Planets, Fall 2019, Spring 2020 (hybrid), Spring 2021 (online)
-  * ASTR 1115G, Introduction to Astronomy, Fall 2017, Spring 2018, Fall 2020 (online), Fall 2021\\
+  * ASTR 1115G, Introduction to Astronomy, Fall 2017, Spring 2018, Fall 2020 (online), Fall 2021
   * ASTR 308V, Into the Final Frontier, Spring 2022
   * ASTR 305V, Life in the Universe, Fall 2022
 
-* NASA Planetary Data System, Atmospheres Node, Graduate Assistant, 2019-present
+* NASA Planetary Data System, Atmospheres Node, Graduate Assistant, 2019-2022
   * Migration of Cassini CIRS and LADEE NMS label files from PDS3 to PDS4
 
 * Lunar and Planetary Institute, Exploration Science Summer Intern, 2021
@@ -102,7 +106,7 @@ Department and Professional Service
  
 * Organizing Committee, LunGradCon, 2022
 
-Executive Secretary, NASA Review Panel, 2021
+* Executive Secretary, NASA Review Panel, 2021
 
 * Note taker, Lunar Exploration Analysis Group (LEAG) meeting, 2020
   * Breakout session note taker for Lunar Surface Science Workshop Outbriefs and Breakout Discussions, Volatiles Room 
