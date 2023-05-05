@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kristen M. Luchsinger"
+title: "Dr. Kristen M. Luchsinger"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,13 +26,13 @@ Research Interests
 
 Recent Projects
 =====
-Lunar Migration of Ice in Seasonal Transient Shadow (LunarMISTS) - a Python model of short term vertical migration of ice under seasonal or transient lunar shadow conditions. Paper submitted 04/2022, oral presentation at LPSC 2022, talk for Friends of Lunar Volatiles telecon 2021, poster presentation at NESF 2020. 
+Lunar Migration of Ice in Seasonal Transient Shadow (LunarMISTS) - a Python model of short term vertical migration of ice under seasonal or transient lunar shadow conditions. Paper published 10/2022, oral presentation at LPSC 2022, talk for Friends of Lunar Volatiles telecon 2021, poster presentation at NESF 2020. The publication version of the LunarMISTS code is archived at https://zenodo.org/record/6450365#.ZFVueZHMLD4 and a living version can be found at https://github.com/kluchsin/LunarMISTS. 
 
-Moon Polar Ice and Ejecta Stratigraphy (MoonPIES) - a Python model of lunar ice and ejecta layering within polar cold traps across lunar history, in collaboration with other members of the LPI Exploration Science Summer Internship program in 2021. Paper coming soon, oral presentation at LPSC 2022 by Christian Tai Udovicic. 
+Moon Polar Ice and Ejecta Stratigraphy (MoonPIES) - a Python model of lunar ice and ejecta layering within polar cold traps across lunar history, in collaboration with other members of the LPI Exploration Science Summer Internship program in 2021. Paper published 04/2023, oral presentation at LPSC 2022 by Christian Tai Udovicic. The publication version of the MoonPIES code is archived at https://zenodo.org/record/7067352#.ZFVvSZHMLD4 and a living version can be found at https://github.com/cjtu/moonpies. 
 
 Past Projects
 =====
-LCROSS debris plume moeling - a C++ limited n-body simulation of the LCROSS debris plume with albedo stratification of the target material, fit to ground-based observations of the plume from the Apache Point Observatory. This project concluded that material deeper than 6 meters was not visible in the plume as expected, suggesting a differentiation in material at that depth. Paper published in 2021, see Publications, oral presentation at LPSC 2019, talk for Friends of Lunar Volatiles telecon 2021, poster presetations at LPSC 2018 and DPS 2018.
+LCROSS debris plume modeling - a C++ limited n-body simulation of the LCROSS debris plume with albedo stratification of the target material, fit to ground-based observations of the plume from the Apache Point Observatory. This project concluded that material deeper than 6 meters was not visible in the plume as expected, suggesting a differentiation in material at that depth. Paper published in 2021, see Publications, oral presentation at LPSC 2019, talk for Friends of Lunar Volatiles telecon 2021, poster presetations at LPSC 2018 and DPS 2018.
 
 Exoplanet transit spectroscopy - an observational campain to use the HYDRA spectrometer on the WIYN telescope at Kitt Peak National Observatory to observe Rayleigh scattering in transiting exoplanet atmospheres, led by Dr. Seth Redfield at Wesleyan University. My portion of this work was presented in my Master's thesis, available through Wesleyan University or via direct communication. Oral presentation at AAS 2017.
 
