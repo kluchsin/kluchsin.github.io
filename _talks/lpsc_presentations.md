@@ -10,6 +10,7 @@ location: "Houston, TX"
 
 Oral Presentations
 =====
+* "Characterizing Buried Lunar Ice Stratigraphy Using a Novel Integrated Collection of Datasets with Varying Detection Sensitivities", LPSC 2024
 * "Lunar Migration of Ice in Seasonal Transient Shadow.", LPSC 2022
 * "Using ground based observations of the LCROSS impact plume to investigate water ice stratification within permanently shadowed lunar sediment", LPSC 2019
 
