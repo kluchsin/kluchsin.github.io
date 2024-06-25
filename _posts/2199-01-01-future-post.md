@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Fiction Writing under the pen name Marina Ruhr'
+date: 2024-06-23
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
   - category1
   - category2
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+In addition to my academic writing, I also publish fiction under the pen name Marina Ruhr. I chose to use a pen name so that each type of writing would be easy to find with a single google search. You can find more about my fiction writing at www.marinaruhr.com.
