@@ -1,7 +1,7 @@
 ---
 title: 'Fiction writing under the pen name Marina Ruhr'
 date: 2024-06-24
-permalink: /posts/marinaruhr.md
+permalink: /posts/marinaruhr/
 tags:
   - cool posts
   - category1
