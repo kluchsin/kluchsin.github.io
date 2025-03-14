@@ -27,9 +27,9 @@ Education
 
 Work experience
 ======
-* NASA Ames, Postdoctoral Researcher, 2023-present
+* NASA Ames, Postdoctoral Researcher, 2023-2025
   * Advisor: Dr. Jennifer Heldmann
-  * Utilizing the depth sensitivities of instruments with lunar polar water detections to constrain depth distribution of water ice populations
+  * Identified intermediate size craters with "missing" volatile signatures within Cabeus crater using a novel collection of multiple volatile-detecting datasets. 
 
 * New Mexico State University, Graduate Teaching Assistant, 2017-2022
   * Head TA, fall 2021
@@ -98,7 +98,7 @@ Teaching
   
 Department and Professional Service
 ======
-* Graduate Curriculum Committee, New Mexico State University, 2021-present
+* Graduate Curriculum Committee, New Mexico State University, 2021-2022
   * Represented the graduate student body of the Astronomy department at NMSU on a committee examining and proposing changes to the graduate curriculum.
  
 * Astronomy Graduate Student Organization (AGSO) Officer, 2018-2022
