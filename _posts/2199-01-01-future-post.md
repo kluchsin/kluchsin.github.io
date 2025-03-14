@@ -1,7 +1,7 @@
 ---
 title: 'Writing under the pen name Marina Ruhr'
 date: 2024-06-23
-permalink: /posts/marinaruhr
+permalink: /fiction/marinaruhr
 tags:
   - fiction
   - marinaruhr
