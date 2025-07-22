@@ -98,6 +98,12 @@ Teaching
   
 Department and Professional Service
 ======
+* NASA Review panels, 2021-present
+  * Served on multiple NASA review panels as an executive secretary and panelist. 
+ 
+* Peer review, 2024-present
+  * Served as a peer reviewer for articles submitted to high-impact science journals.  
+
 * Graduate Curriculum Committee, New Mexico State University, 2021-2022
   * Represented the graduate student body of the Astronomy department at NMSU on a committee examining and proposing changes to the graduate curriculum.
  
@@ -105,8 +111,6 @@ Department and Professional Service
   * Served as an elected officer in the NMSU Astronomy Graduate Student Organization, holding the position of ``Tea Time Overlord''. My duties included organizing and running weekly tea times, and transitioning and maintaining the event in a virtual format throughout the pandemic. 
  
 * Organizing Committee, LunGradCon, 2022
-
-* Executive Secretary, NASA Review Panel, 2021
 
 * Note taker, Lunar Exploration Analysis Group (LEAG) meeting, 2020
   * Breakout session note taker for Lunar Surface Science Workshop Outbriefs and Breakout Discussions, Volatiles Room 
