@@ -27,6 +27,8 @@ Education
 
 Work experience
 ======
+* SETI Institute, Affiliate and Research Scientist, 2025-present
+
 * NASA Ames, Postdoctoral Researcher, 2023-2025
   * Advisor: Dr. Jennifer Heldmann
   * Identified intermediate size craters with "missing" volatile signatures within Cabeus crater using a novel collection of multiple volatile-detecting datasets. 
@@ -98,8 +100,8 @@ Teaching
   
 Department and Professional Service
 ======
-* NASA Review panels, 2021-present
-  * Served on multiple NASA review panels as an executive secretary and panelist. 
+* NASA review panels, 2021-present
+  * Served on multiple NASA review panels. 
  
 * Peer review, 2024-present
   * Served as a peer reviewer for articles submitted to high-impact science journals.  
